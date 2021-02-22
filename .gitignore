@@ -1,0 +1,7 @@
+firebase-adminsdk-llegn.json
+*__pycache__*
+.vscode
+*/env/*
+env
+app.pyc
+secrets.json
